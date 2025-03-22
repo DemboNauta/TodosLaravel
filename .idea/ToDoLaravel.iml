@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ToDoLaravel/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/ToDoLaravel/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/ToDoLaravel/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/ToDoLaravel/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/ToDoLaravel/tests/Feature" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ToDoLaravel/tests/Unit" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/carbonphp/carbon-doctrine-types" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/fruitcake/php-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/guzzlehttp/uri-template" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/pail" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/pint" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/prompts" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/sanctum" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/serializable-closure" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/flysystem-local" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/uri" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/league/uri-interfaces" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/staabm/side-effects-detector" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-php83" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/polyfill-uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/uid" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/ToDoLaravel/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
